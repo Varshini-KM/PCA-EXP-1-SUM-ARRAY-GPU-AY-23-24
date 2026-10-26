@@ -199,16 +199,16 @@ int main()
 ```
 
 ## OUTPUT:
-Configuration 1: BLOCK.X = 512 (Baseline)
+## Configuration 1: BLOCK.X = 512 (Baseline)
 <img width="730" height="539" alt="Screenshot 2026-10-26 104645" src="https://github.com/user-attachments/assets/aa3f06c6-6a58-4f0a-8900-594946195c27" />
 
-Configuration 2: BLOCK.X = 1023
+## Configuration 2: BLOCK.X = 1023
 <img width="714" height="564" alt="Screenshot 2026-10-26 104744" src="https://github.com/user-attachments/assets/885a7d11-943e-42bf-a1b4-b32a8580aeee" />
 
-Configuration 3: BLOCK.X = 1024
+## Configuration 3: BLOCK.X = 1024
 <img width="710" height="602" alt="Screenshot 2026-10-26 104855" src="https://github.com/user-attachments/assets/92e91411-f3e5-4815-9619-cba7d49653c1" />
 
-Configuration 4: BLOCK.X = 256 (Two Elements per Thread)
+## Configuration 4: BLOCK.X = 256 (Two Elements per Thread)
 <img width="630" height="298" alt="Screenshot 2026-10-26 110403" src="https://github.com/user-attachments/assets/a2b93f94-af08-4c1f-9192-2425554db87b" />
 
 
